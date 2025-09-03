@@ -5,3 +5,6 @@
 [submodule "ceblR"]
 	path = ceblR
 	url = https://github.com/awosoga/ceblr
+[submodule "rvolleydata"]
+	path = rvolleydata
+	url = https://github.com/awosoga/rvolleydata
